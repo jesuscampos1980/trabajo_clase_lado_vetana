@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/* Estilos generales de caja */
+#caja-general {
+    margin: 0px auto;
+    padding: 20px;
+    width: 50%;
+    height: 90vh;
+    border-radius: 33px;
+    background: linear-gradient(145deg, #cbe6ae, #f1ffcf);
+    box-shadow: 8px 8px 0px #a9bf91,
+        -8px -8px 0px #fffff1;
+    margin-top: 1%;
+}
+
+/* Estilos de la cabecera */
+header {
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    background: #FFFAB5;
+    box-shadow: 8px 8px 0px #bfbc88,
+        -8px -8px 0px #ffffe2;
+}
+
+/* Final de estilos de la cabecera */
+
+/* Trabajadores */
+.trabajadores{
+    display: flex;
+    justify-content:space-between;
+    font-size: 19px;
+    align-items: center;
+    
+    
+}
+.trabajadores a{
+    transition: all 300ms;
+}
+.trabajadores a:hover{
+    text-shadow: 2PX 2PX 1PX #ccc;
+    font-size: 20px;
+    
+}
