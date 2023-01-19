@@ -14,3 +14,7 @@ body{
 #carrusel{
     width: 60%;
 }
+
+a{
+    text-decoration: none;
+}
