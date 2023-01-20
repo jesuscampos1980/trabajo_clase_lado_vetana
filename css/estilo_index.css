@@ -23,18 +23,21 @@
     #btn_encima{
         padding: 5%;
         color: rgb(0, 0, 0);
-        font: bold;
-        background:rgb(0, 195, 255);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background:rgb(255, 255, 255);
         text-decoration:none;
-        text-transform: uppercase;
+        text-transform: none;
         transition: all .1s;
+        border-radius: 8px;
+        border: 1px solid #0dcaf0;
+        color: rgb(13, 110, 253);
+        font-weight: lighter;
     }
     #btn_encima:hover{
         color: rgb(0, 0, 0);
-        font: bold;
-        background:rgb(255, 251, 0);
+        background:rgb(13, 110, 253);
         text-decoration:none;
-        text-transform: uppercase;
+        text-transform: none;
     
     }
     
