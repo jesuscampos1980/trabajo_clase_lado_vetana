@@ -23,3 +23,88 @@
 img {
     height: 300px;
 }
+
+img:hover {
+    background-color: black;
+    width: 100%;
+}
+
+/* Estilos para las fotos */
+.foto1 {
+    opacity: 0.5;
+}
+
+.foto1 {
+    opacity: 1;
+}
+
+.foto1 {
+    transition: all 300ms;
+}
+
+/*  */
+.foto2 {
+    opacity: 0.5;
+}
+
+.foto2 {
+    opacity: 1;
+}
+
+.foto2 {
+    transition: all 300ms;
+}
+
+/*  */
+
+
+.foto3 {
+    opacity: 0.5;
+}
+
+.foto3 {
+    opacity: 1;
+}
+
+.foto3 {
+    transition: all 300ms;
+}
+
+/*  */
+
+.foto4 {
+    opacity: 0.5;
+}
+
+.foto4 {
+    opacity: 1;
+}
+
+.foto4 {
+    transition: all 300ms;
+}
+
+/*  */
+.foto5 {
+    opacity: 0.5;
+}
+
+.foto5 {
+    opacity: 1;
+}
+
+.foto5 {
+    transition: all 300ms;
+}
+/*  */
+.foto6 {
+    opacity: 0.5;
+}
+
+.foto6 {
+    opacity: 1;
+}
+
+.foto6 {
+    transition: all 300ms;
+}
